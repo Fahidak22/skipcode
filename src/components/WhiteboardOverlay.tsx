@@ -225,7 +225,7 @@ export default function WhiteboardOverlay() {
           }`}
           title="Eraser"
         >
-          🧹
+          🧽
         </button>
 
         {/* Colors – only when pen is active */}
@@ -315,7 +315,7 @@ export default function WhiteboardOverlay() {
               className="px-2 h-8 flex items-center justify-center rounded text-lg bg-red-900/60 hover:bg-red-900 text-red-200"
               title="Clear"
             >
-              ⌫
+              Clear
             </button>
           </>
         )}
